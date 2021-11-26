@@ -12,7 +12,7 @@
 	</p>
 	
 	<form action="/welcome" method="POST">
-	 Select User: <number:process /><br></br>
+	 Select Process List per page: <number:process /><br></br>
 	  Select Sort type: <number:sort />      Select Sort order: <number:aOrD/><br></br> 
 		<input type="submit" name="submituser" value="Show User Process" /> 
 		<br><br>
